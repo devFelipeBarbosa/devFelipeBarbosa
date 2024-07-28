@@ -5,7 +5,7 @@
 - 📫 Entre em contato: cavalcantebarbosa@gmail.com;
 - 😄 Pronomes: ele/dele (he/him).
 
-<div style="display: inline_block"><br>
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devFelipeBarbosa&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </a>
