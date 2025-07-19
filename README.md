@@ -1,6 +1,6 @@
 ## Oi, sou o Felipe Barbosa! Seja bem-vindo(a)! 👋
 
-- 🔭 Estou trabalhando atualmente na Sankhya, como Consultor de Implantação;
+- 🔭 Trabalha atualmente na Sankhya, como Consultor de Implantação;
 - 🌱 Apredendo e entrando no mundo do desenvolvimento full-stack;
 - 📫 Entre em contato: cavalcantebarbosa@gmail.com;
 - 😄 Pronomes: ele/dele (he/him).
