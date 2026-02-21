@@ -5,6 +5,13 @@
 - 📫 Entre em contato: cavalcantebarbosa@gmail.com;
 - 😄 Pronomes: ele/dele (he/him).
 
+![Snake animation](https://github.com/devFelipeBarbosa/devFelipeBarbosa/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devFelipeBarbosa/devFelipeBarbosa/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://github.com/devFelipeBarbosa/devFelipeBarbosa/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
