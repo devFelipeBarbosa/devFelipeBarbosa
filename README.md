@@ -5,8 +5,6 @@
 - 📫 Entre em contato: cavalcantebarbosa@gmail.com;
 - 😄 Pronomes: ele/dele (he/him).
 
-![Snake animation](https://github.com/devFelipeBarbosa/devFelipeBarbosa/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devFelipeBarbosa/devFelipeBarbosa/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="github contribution snake" src="https://github.com/devFelipeBarbosa/devFelipeBarbosa/blob/output/github-contribution-grid-snake.svg" />
